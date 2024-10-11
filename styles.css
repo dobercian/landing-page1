@@ -55,7 +55,7 @@ img{
     margin-left: 44px;
 }
 
-button{
+.signs-up{
     background-color: #3882f6;
     color: #f9faf8;
     padding: 5px 20px;
@@ -124,3 +124,25 @@ span{
     font-weight: bold;
     align-self: flex-end;
 }
+
+.section4{
+    padding: 88px 177px;
+}
+
+.call-action{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    display: flex;
+    padding: 33px 77px;
+    justify-content: space-around;
+}
+
+.button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 2px white;
+}
+
